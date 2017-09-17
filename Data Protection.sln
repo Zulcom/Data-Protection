@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data Protection", "Data Protection\Data Protection.vcxproj", "{5C4F56A3-912E-4E89-97D0-5C1E2675DE18}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1", "Data Protection\Data Protection.vcxproj", "{5C4F56A3-912E-4E89-97D0-5C1E2675DE18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab2", "lab2\lab2.vcxproj", "{513559BF-AE13-428A-9E12-BA8AAA5E7997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{5C4F56A3-912E-4E89-97D0-5C1E2675DE18}.Release|x64.Build.0 = Release|x64
 		{5C4F56A3-912E-4E89-97D0-5C1E2675DE18}.Release|x86.ActiveCfg = Release|Win32
 		{5C4F56A3-912E-4E89-97D0-5C1E2675DE18}.Release|x86.Build.0 = Release|Win32
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Debug|x64.ActiveCfg = Debug|x64
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Debug|x64.Build.0 = Debug|x64
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Debug|x86.ActiveCfg = Debug|Win32
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Debug|x86.Build.0 = Debug|Win32
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Release|x64.ActiveCfg = Release|x64
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Release|x64.Build.0 = Release|x64
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Release|x86.ActiveCfg = Release|Win32
+		{513559BF-AE13-428A-9E12-BA8AAA5E7997}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
